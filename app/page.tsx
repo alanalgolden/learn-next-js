@@ -1,7 +1,10 @@
 import AcmeLogo from '@/app/ui/acme-logo';
 import styles from '@/app/ui/home.module.css'
+import { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
+
+
 
 export default function Page() {
   return (
